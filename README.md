@@ -35,15 +35,15 @@ pip install pillow
 ## 🚀 How to Run  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/jonahprashanth/Rock-Paper-Scissors.git
    ```
 2. Navigate to the project folder:  
    ```sh
-   cd your-repo-name
+   cd Rock-Paper-Scissors
    ```
 3. Run the Python script:  
    ```sh
-   python game.py
+   python main.py
    ```
    
 ## 🎮 How to Play  
