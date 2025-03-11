@@ -43,7 +43,7 @@ pip install pillow
    ```
 3. Run the Python script:  
    ```sh
-   python main.py
+   python game.py
    ```
    
 ## 🎮 How to Play  
